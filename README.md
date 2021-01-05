@@ -5,7 +5,7 @@
 pdsnd_github
 
 ### Description
-Describe what your project is about and what it does
+Working with Git and GitHub to better understand version control
 
 ### Files used
 Include the files used
